@@ -1,0 +1,296 @@
+
+
+
+@media only screen and (max-width: 1200px) {
+    #logotext2{
+        display: none;
+    }
+    .banner{
+        height: 572px;
+    }
+    .maincard{
+        height: 31rem;
+    }
+    .bannerdate {
+        left: 30%;
+        bottom: -6%;
+    }
+    .allImageExample{
+        height: 324px;
+    }
+    .allreadmore{
+        width: 30%;
+        height: 41px;
+        line-height: 41px;
+    }
+    .input1{
+        left: 4rem;
+        width: 57%;
+    }
+    .ftimg1 {
+        width: 91px;
+        height: 95px;
+    }
+
+} 
+
+
+@media only screen and (max-width: 992px) {
+    #logotext2{
+        display: none;
+    }
+    .banner{
+        height: 474px;
+    }
+    .banner a{
+        width: 13%;
+    }
+    .bannerdate{
+        bottom: -8%;
+        left: 28%;
+    }
+    .maincard{
+        height: 28rem;
+    }
+    .bannerdate{
+        bottom: -6%;
+    }
+    .sidepartimage{
+        height: 310px;
+    }
+    .allImageExample{
+        height: 291px;
+    }
+    .allread{
+        width: 36%;
+        height: 40px;
+        line-height: 40px;
+    }
+    .input1{
+        left: 2rem;
+        width: 69%;
+    }
+    .ftimg1 {
+        width: 77px;
+        height: 85px;
+    }
+    .cpr8{
+        bottom: -113px;
+    }
+} 
+
+@media only screen and (max-width: 768px) {
+    #logotext2{
+        display: none;
+    }
+    .banner{
+        height: 366px;
+    }
+    .maincard{
+        height: 24rem;
+    }
+    .card-date{
+        display: none;
+    }
+    .bannerdate{
+        bottom: -7%;
+    }
+    .ftimg1 {
+        width: 56px;
+        height: 67px;
+      
+    }
+    .sidepartimage{
+        height: 412px;
+    }
+    .allImageExample{
+        height: 412px;
+    }
+    .footersection{
+        height: 500px;
+    }
+    #socialoff{
+        display: none;
+    }
+    .arrowup{
+        margin-top: 18rem;
+        margin-left: 47px;
+    }
+    .mdiconsocial{
+        display: block;
+    }
+    .icon222 i{
+        padding: 0 5px;
+        color: white;
+    }
+    .cpr8{
+        left: 42%;
+        bottom: -143px;
+    }
+    .input1 {
+        left: 1rem;
+        width: 77%;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+.navmiddle{
+        position: absolute;
+        top: 100%;
+        right: -100%;
+        width: 200px;
+        height: 60vh;
+        background: white;
+        border-radius: 10px;
+        display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+        transition: all .50s ease;
+        margin-top: 5px;
+        box-shadow: 0 5px 10px  rgba(128, 128, 128, 0.533);
+    }
+    .navmiddle a{
+        display: block;
+		margin: 12px 0;
+		padding: 0px 25px;
+		transition: all .50s ease;
+    }
+    .navmiddle.open{
+		right: 2%;
+	}
+     .navright{
+        position: absolute;
+        top: 100%;
+        right: -100%;
+        display: flex;
+        transition: all .50s ease;
+        margin: 55vh 36px 0 0;
+    }
+    .navright a{
+        display: block;
+		transition: all .50s ease;
+        margin: 0 5px;
+        z-index: 10002;
+    }
+    #menu-icon{
+		display: block;
+	}
+    .navright.open2{
+		right: 2%;
+	}
+    #logotext1{
+        display: none !important;
+    }
+    #logotext2{
+        display: inline-block !important;
+    }
+
+
+    .banner{
+        height: 100vh;
+        background: url(./../image/backgroundImage/jf.jpg) no-repeat center top;
+        background-size: full;
+    }
+
+    .banner p{
+        position: absolute;
+        top: 76%;
+        left: 36px;
+        font-size: 22px;
+    }
+    .banner h2{
+        position: absolute;
+        top: 80%;
+        left: 36px;
+        font-size: 33px;
+    }
+    
+    .banner a{
+        position: absolute;
+        top: 86%;
+        left: 36px;
+        width: 43%;
+        height: 36px;
+        line-height: 36px;
+        border-radius: 0;
+        font-size: 15px;
+      }
+
+      .maincard{
+        height: 38rem;
+      }
+      .bannerdate {
+        bottom: -8%;
+      }
+      .ftimg1 {
+        width: 45px;
+        height: 57px;
+      }
+      .cpr8{
+        display: none;
+      }
+
+
+} 
+
+
+@media only screen and (max-width: 600px) {
+      .maincard {
+        height: 28rem;
+      }
+      .bannerdate {
+        bottom: -11%;
+        left: 59px;
+      }
+      .bannerdate p{
+        font-size: 11px;
+        height: 28px;
+        line-height: 28px;
+      }
+      .bannerhead{
+        margin-top: 21px;
+      }
+      .rendomPost{
+        margin-top: 22px;
+      }
+      .category-item{
+        margin-top: 10px;
+      }
+      .rdmore {
+        width: 36%;
+        height: 39px;
+        line-height: 39px;
+      }
+      .sidepartimage {
+        height: 302px;
+      }
+      .sidepartimage span button {
+        width: 31%;
+        height: 38px;
+      }
+      .allImageExample {
+        height: 302px;
+      }
+      .footersection {
+        height: 834px;
+      }
+      .input1 {
+        width: 91%;
+      }
+      .inp22 span{
+        left: 88%;
+      }
+      .ftimg1 {
+        width: 94px;
+        height: 99px;
+      }
+      .arrowup {
+        margin-top: 0;
+        margin-left: 136px;
+      }
+}
+
+

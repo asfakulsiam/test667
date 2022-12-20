@@ -1,0 +1,51 @@
+/* custom font addon */
+
+/* abel font */
+
+@font-face{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+
+/* font anton */
+
+@font-face{
+    font-family: Anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+
+/* josefin regular */
+
+@font-face{
+    font-family: Josefin;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Regular.ttf);
+}
+
+/* lexend regulalr */
+
+@font-face{
+    font-family: Lexend;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+
+
+@font-face{
+    font-family: Revamped;
+    src: url(../fonts/Revamped/Revamped.otf);
+}
+
+@font-face{
+    font-family: Urban;
+    src: url(../fonts/Urban/URBAN\ TRIBE.ttf);
+}
+
+@font-face{
+    font-family: Mastard;
+    src: url(../fonts/mustard_smile/Mustard\ Smile.ttf);
+}
+
+
+@font-face{
+    font-family: Omegle;
+    src: url(../fonts/omegle/OMEGLE.ttf);
+}
